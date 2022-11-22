@@ -1,0 +1,7 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://mastodon.jgarr.net/following",
+    "type": "OrderedCollection",
+    "totalItems": 2,
+    "first": "https://mastodon.jgarr.net/following_accts"
+}

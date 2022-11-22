@@ -1,0 +1,11 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://mastodon.jgarr.net/justin/following_accts",
+    "type": "OrderedCollectionPage",
+    "totalItems": 2,
+    "partOf": "https://mastodon.jgarr.net/following",
+    "orderedItems": [
+        "https://mastodon.social/users/jgarr",
+        "https://mastodon.social/users/kelseyhightower"
+    ]
+}
