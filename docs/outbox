@@ -1,8 +1,0 @@
-{
-    "@context": "https://www.w3.org/ns/activitystreams",
-    "id": "https://mastodon.jgarr.net/outbox",
-    "type": "OrderedCollection",
-    "totalItems": 1,
-    "first": "https://mastodon.jgarr.net/toots",
-    "last": "https://mastodon.jgarr.net/toots"
-}
