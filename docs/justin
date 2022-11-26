@@ -55,7 +55,7 @@
         }
     }],
     "id": "https://mastodon.jgarr.net/justin",
-    "type": "Bot",
+    "type": "Person",
     "following": "https://mastodon.jgarr.net/following",
     "followers": "https://mastodon.jgarr.net/followers",
     "inbox": "https://mastodon.jgarr.net/inbox",

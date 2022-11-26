@@ -6,7 +6,6 @@
     "next": "https://mastodon.jgarr.net/follower_accts_2",
     "partOf": "https://mastodon.jgarr.net/followers",
     "orderedItems": [
-        "https://mastodon.social/users/jgarr",
-        "https://mastodon.social/users/kelseyhightower"
+        "https://mastodon.social/users/jgarr"
     ]
 }

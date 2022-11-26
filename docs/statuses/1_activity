@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        {
+            "ostatus": "http://ostatus.org#",
+            "atomUri": "ostatus:atomUri",
+            "inReplyToAtomUri": "ostatus:inReplyToAtomUri",
+            "conversation": "ostatus:conversation",
+            "sensitive": "as:sensitive",
+            "toot": "http://joinmastodon.org/ns#",
+            "votersCount": "toot:votersCount",
+            "blurhash": "toot:blurhash",
+            "focalPoint": {
+                "@container": "@list",
+                "@id": "toot:focalPoint"
+            }
+        }
+    ],
+    "id": "https://mastodon.jgarr.net/statuses/1_activity",
+    "type": "Create",
+    "actor": "https://mastodon.jgarr.net/justin",
+    "published": "2022-11-22T07:33:20Z",
+    "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "cc": [
+        "https://mastodon.jgarr.net/followers"
+    ],
+    "object": {
+        "id": "https://mastodon.jgarr.net/statuses/1",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2022-11-22T07:33:20Z",
+        "url": "https://mastodon.jgarr.net/statuses/1",
+        "attributedTo": "https://mastodon.jgarr.net/justin",
+        "to": [
+            "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+            "https://mastodon.jgarr.net/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.jgarr.net/statuses/1",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.jgarr.net,2022-11-22:objectId=339276762:objectType=Conversation",
+        "content": "<p>This is an example post.</p>",
+        "contentMap": {
+            "en": "<p>This is an example post.</p>"
+        },
+        "tag": [],
+        "replies": {
+            "id": "https://mastodon.jgarr.net/statuses/1_replies",
+            "type": "Collection",
+            "first": {
+                "type": "CollectionPage",
+                "next": "https://mastodon.jgarr.net/statuses/1_replies_old",
+                "partOf": "https://mastodon.jgarr.net/statuses/1_replies",
+                "items": []
+            }
+        }
+    }
+}
