@@ -1,0 +1,7 @@
+{                                                                                                                                                                                                                                                                                           
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://x.gerbil-dragon.ts.net/outbox",
+  "type": "OrderedCollection",
+  "totalItems": 1,
+  "first": "https://x.gerbil-dragon.ts.net/toots"                                                                                                                                                                                                                   
+}

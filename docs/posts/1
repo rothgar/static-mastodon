@@ -1,0 +1,35 @@
+{
+    "id": "https://x.gerbil-dragon.ts.net/posts/1",
+    "type": "Note",
+    "summary": null,
+    "inReplyTo": null,
+    "published": "2022-04-26T00:11:17Z",
+    "url": "https://x.gerbil-dragon.ts.net/posts/1",
+    "attributedTo": "https://x.gerbil-dragon.ts.net/justin",
+    "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "cc": [
+        "https://x.gerbil-dragon.ts.net/followers"
+    ],
+    "sensitive": false,
+    "atomUri": "https://x.gerbil-dragon.ts.net/posts/1",
+    "inReplyToAtomUri": null,
+    "conversation": "tag:x.gerbil-dragon.ts.net,2022-04-26:objectId=288755344:objectType=Conversation",
+    "content": "<p>It has been an interesting day.</p>",
+    "contentMap": {
+        "en": "<p>It has been an interesting day.</p>"
+    },
+    "attachment": [],
+    "tag": [],
+    "replies": {
+        "id": "https://x.gerbil-dragon.ts.net/posts/1_replies",
+        "type": "Collection",
+        "first": {
+            "type": "CollectionPage",
+            "next": "https://x.gerbil-dragon.ts.net/posts/1_replies_more",
+            "partOf": "https://x.gerbil-dragon.ts.net/posts/1_replies",
+            "items": []
+        }
+    }
+}

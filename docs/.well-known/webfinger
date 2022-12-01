@@ -1,16 +1,8 @@
 {
-    "subject": "acct:justin@mastodon.jgarr.net",
-    "aliases": ["https://mastodon.jgarr.net/justin"],
+    "subject": "acct:justin@x.gerbil-dragon.ts.net",
     "links": [{
-        "rel": "http://webfinger.net/rel/profile-page",
-        "type": "text/html",
-        "href": "https://mastodon.jgarr.net/justin"
-    }, {
         "rel": "self",
         "type": "application/activity+json",
-        "href": "https://mastodon.jgarr.net/justin"
-    }, {
-        "rel": "http://ostatus.org/schema/1.0/subscribe",
-        "template": "https://mastodon.jgarr.net/authorize_interaction?uri={uri}"
+        "href": "https://x.gerbil-dragon.ts.net/justin"
     }]
 }

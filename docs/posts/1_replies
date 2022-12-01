@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://x.gerbil-dragon.ts.net/posts/1_replies",
+  "type": "Collection",
+  "first": {
+    "id": "https://x.gerbil-dragon.ts.net/posts/1_replies",
+    "type": "CollectionPage",
+    "next": "https://x.gerbil-dragon.ts.net/posts/1_replies_more",
+    "partOf": "https://x.gerbil-dragon.ts.net/posts/1_replies",
+    "items": []
+  }
