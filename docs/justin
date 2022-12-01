@@ -3,11 +3,11 @@
         "https://www.w3.org/ns/activitystreams",
         "https://w3id.org/security/v1"
     ],
-    "id": "https://x.gerbil-dragon.ts.net/justin",
+    "id": "https://mastodon.jgarr.net/justin",
     "type": "Person",
-    "following": "https://x.gerbil-dragon.ts.net/following",
-    "followers": "https://x.gerbil-dragon.ts.net/followers",
-    "inbox": "https://x.gerbil-dragon.ts.net/inbox",
+    "following": "https://mastodon.jgarr.net/following",
+    "followers": "https://mastodon.jgarr.net/followers",
+    "inbox": "https://mastodon.jgarr.net/inbox",
     "preferredUsername": "justin",
     "name": "Justin Garrison",
     "summary": "Static mastodon server example.",
@@ -19,11 +19,11 @@
     "icon": {
         "type": "Image",
         "mediaType": "image/jpeg",
-        "url": "https://x.gerbil-dragon.ts.net/icon.jpg"
+        "url": "https://mastodon.jgarr.net/icon.jpg"
     },
     "image": {
         "type": "Image",
         "mediaType": "image/jpeg",
-        "url": "https://x.gerbil-dragon.ts.net/image.png"
+        "url": "https://mastodon.jgarr.net/image.png"
     }
 }

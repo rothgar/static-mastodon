@@ -1,7 +1,7 @@
 {
     "@context": "https://www.w3.org/ns/activitystreams",
-    "id": "https://x.gerbil-dragon.ts.net/users/posts/1_replies_more",
+    "id": "https://mastodon.jgarr.net/users/posts/1_replies_more",
     "type": "CollectionPage",
-    "partOf": "https://x.gerbil-dragon.ts.net/posts/1_replies",
+    "partOf": "https://mastodon.jgarr.net/posts/1_replies",
     "items": []
 }

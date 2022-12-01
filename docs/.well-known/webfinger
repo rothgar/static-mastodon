@@ -1,8 +1,8 @@
 {
-    "subject": "acct:justin@x.gerbil-dragon.ts.net",
+    "subject": "acct:justin@mastodon.jgarr.net",
     "links": [{
         "rel": "self",
         "type": "application/activity+json",
-        "href": "https://x.gerbil-dragon.ts.net/justin"
+        "href": "https://mastodon.jgarr.net/justin"
     }]
 }

@@ -1,7 +1,7 @@
 {
     "@context": "https://www.w3.org/ns/activitystreams",
-    "id": "https://x.gerbil-dragon.ts.net/followers",
+    "id": "https://mastodon.jgarr.net/followers",
     "type": "OrderedCollection",
     "totalItems": 1000000,
-    "first": "https://x.gerbil-dragon.ts.net/follower_accts"
+    "first": "https://mastodon.jgarr.net/follower_accts"
 }
