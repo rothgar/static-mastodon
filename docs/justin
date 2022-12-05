@@ -7,6 +7,7 @@
     "type": "Person",
     "following": "https://mastodon.jgarr.net/following",
     "followers": "https://mastodon.jgarr.net/followers",
+    "featured": "https://mastodon.jgarr.net/featured",
     "inbox": "https://mastodon.jgarr.net/inbox",
     "outbox": "https://mastodon.jgarr.net/outbox",
     "preferredUsername": "justin",

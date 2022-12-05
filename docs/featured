@@ -1,0 +1,42 @@
+{
+  "id": "https://mastodon.jgarr.net/featured",
+  "type": "OrderedCollection",
+  "totalItems": 1,
+  "orderedItems": [
+    {
+      "id": "https://mastodon.jgarr.net/1",
+      "type": "Note",
+      "summary": null,
+      "inReplyTo": null,
+      "published": "2022-04-26T00:11:17Z",
+      "url": "https://mastodon.jgarr.net/1",
+      "attributedTo": "https://mastodon.jgarr.net/justin",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.jgarr.net/followers"
+      ],
+      "sensitive": false,
+      "atomUri": "https://mastodon.jgarr.net/1",
+      "inReplyToAtomUri": null,
+      "conversation": "tag:mastodon.jgarr.net,2022-04-26:objectId=288755344:objectType=Conversation",
+      "content": "<p>THIS IS PINNED</p>",
+      "contentMap": {
+        "en": "<p>THIS IS PINNED</p>"
+      },
+      "attachment": [],
+      "tag": [],
+      "replies": {
+        "id": "https://mastodon.jgarr.net/1_replies",
+        "type": "Collection",
+        "first": {
+          "type": "CollectionPage",
+          "next": "https://mastodon.jgarr.net/1_replies_more",
+          "partOf": "https://mastodon.jgarr.net/1_replies",
+          "items": []
+        }
+      }
+    }
+  ]
+}
