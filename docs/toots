@@ -2,7 +2,7 @@
     "id": "https://mastodon.jgarr.net/toots",
     "type": "OrderedCollectionPage",
     "next": "https://mastodon.jgarr.net/toots_more",
-    "prev": "ttps://mastodon.jgarr.net/toots_less",
+    "prev": "https://mastodon.jgarr.net/toots_less",
     "partOf": "https://mastodon.jgarr.net/toots",
     "orderedItems": [{
         "id": "https://mastodon.jgarr.net/posts/1",
